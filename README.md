@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# introduction
+
+- 😄 zh-CN / VSCode & JetBrains / full stack explorer
+- 🌱 I’m currently learning golang
+- 💬 Ask me about python -> django / spider
+- ⚡ [Homepage](https://wudizhangzhi.github.io/)
+
+# stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wudizhangzhi&show_icons=true&theme=merko)
+
+# languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wudizhangzhi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
